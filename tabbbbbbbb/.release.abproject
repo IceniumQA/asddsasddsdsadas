@@ -1,5 +1,6 @@
 {
   "CorePlugins": [
+    "nl.x-services.plugins.flashlight@2.0.2",
     "org.apache.cordova.battery-status",
     "org.apache.cordova.camera",
     "org.apache.cordova.contacts",
